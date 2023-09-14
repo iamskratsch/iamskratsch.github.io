@@ -21,7 +21,7 @@ const Layout = ({ location, title, children }) => {
   }
 
   return (
-    <div className="mx-10 max-w-2xl" data-is-root-path={isRootPath}>
+    <div className="m-auto max-w-2xl" data-is-root-path={isRootPath}>
       <header className="mb-12">{header}</header>
       <main>{children}</main>
       <footer className="px-0 py-6">
