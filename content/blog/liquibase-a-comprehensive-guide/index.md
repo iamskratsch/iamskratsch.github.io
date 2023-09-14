@@ -1,5 +1,5 @@
 ---
-title: "Liquibase : A Comprehensive Guide"
+title: "Liquibase : An Introduction"
 date: "2023-09-14T22:12:03.284Z"
 description: "Liquibase is a robust open-source solution designed to facilitate the management of database schema modifications"
 ---
