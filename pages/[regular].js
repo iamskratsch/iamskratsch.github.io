@@ -1,4 +1,5 @@
 import NotFound from "@layouts/404";
+import Privacy from "@layouts/Privacy";
 import About from "@layouts/About";
 import Base from "@layouts/Baseof";
 import Contact from "@layouts/Contact";
@@ -22,6 +23,8 @@ const RegularPages = ({ data }) => {
     >
       {layout === "404" ? (
         <NotFound data={data} />
+      ) : layout === "privacy" ? (
+        <Privacy data={data} />
       ) : layout === "about" ? (
         <About data={data} />
       ) : layout === "contact" ? (

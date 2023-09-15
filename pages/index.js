@@ -19,7 +19,6 @@ const Home = ({
   featured_posts,
   recent_posts,
   categories,
-  promotion,
 }) => {
   // define state
   const sortPostByDate = sortByDate(posts);
@@ -131,19 +130,6 @@ const Home = ({
                 </div>
               )}
 
-              {/* Promotion */}
-              {promotion.enable && (
-                <Link href={promotion.link} className="section block pt-0">
-                  <ImageFallback
-                    className="h-full w-full"
-                    height="115"
-                    width="800"
-                    src={promotion.image}
-                    alt="promotion"
-                  />
-                </Link>
-              )}
-
               {/* Recent Posts */}
               {recent_posts.enable && (
                 <div className="section pt-0">
@@ -184,7 +170,7 @@ export default Home;
 export const getStaticProps = async () => {
   const homepage = await getListPage("content/_index.md");
   const { frontmatter } = homepage;
-  const { banner, featured_posts, recent_posts, promotion } = frontmatter;
+  const { banner, featured_posts, recent_posts } = frontmatter;
   const posts = getSinglePage(`content/${blog_folder}`);
   const categories = getTaxonomy(`content/${blog_folder}`, "categories");
 
@@ -204,7 +190,6 @@ export const getStaticProps = async () => {
       posts: posts,
       featured_posts,
       recent_posts,
-      promotion,
       categories: categoriesWithPostsCount,
     },
   };
