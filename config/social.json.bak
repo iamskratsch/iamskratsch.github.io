@@ -1,11 +1,11 @@
 {
-  "facebook": "",
-  "stackoverflow": "https://stackoverflow.com/users/20776126/iamskratsch",
-  "twitter": "https://twitter.com/iamskratsch",
-  "instagram": "",
+  "facebook": "https://facebook.com/",
+  "stackoverflow": "https://stackoverflow.com/",
+  "twitter": "https://twitter.com/",
+  "instagram": "https://instagram.com/",
   "youtube": "",
-  "linkedin": "https://linkedin.com/in/skaschimer",
-  "github": "https://github.com/iamskratsch",
+  "linkedin": "https://linkedin.com/",
+  "github": "https://github.com/",
   "gitlab": "",
   "discord": "",
   "slack": "",
@@ -25,9 +25,9 @@
   "tiktok": "",
   "foursquare": "",
   "rss": "",
-  "email": "steve@skratsch.com",
+  "email": "",
   "phone": "",
   "address": "",
   "skype": "",
-  "website": "https://iamskratsch.github.io"
+  "website": ""
 }

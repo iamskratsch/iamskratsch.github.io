@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },
@@ -39,7 +43,7 @@
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy"
+      "url": "#"
     }
   ]
 }
