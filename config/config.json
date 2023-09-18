@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "iamskratsch",
+    "title": "Geeky Nextjs",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
     "logo_width": "150",
     "logo_height": "39",
-    "logo_text": "iamskratsch"
+    "logo_text": "Geeky"
   },
   "settings": {
     "theme_switcher": true,
@@ -22,18 +22,18 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "",
-    "copyright": "&copy; 2023, Skratsch Solutions LLC"
+    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
+    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
   },
   "metadata": {
-    "meta_author": "Steve Kaschimer",
+    "meta_author": "Statichunt",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Technical blog for iamskratsch. Learn something while having fun!"
+    "meta_description": "Geeky Nextjs Personal Blog Template"
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "I am Steve Kaschimer, a developer in the Metro Detroit area building useful things. Making technology fun and attainable and changing the world one day at a time."
+      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
     },
     "featured_posts": {
       "enable": true,
@@ -47,9 +47,9 @@
     "newsletter": {
       "enable": true,
       "title": "Newsletter",
-      "content": "Join thousands of iamskratsch subscribers and get our best content delivered each week!",
-      "privacy_policy_page": "/privacy",
-      "mailchimp_url": "https://skratsch.us2.list-manage.com/subscribe/post?u=4cffd80e6ab43b565a0c34cc3&amp;id=c993a326a2&amp;v_id=3708&amp;f_id=00a352e0f0"
+      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
     }
   },
   "disqus": {

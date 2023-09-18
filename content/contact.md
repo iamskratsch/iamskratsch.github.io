@@ -1,20 +1,20 @@
 ---
-title: "Let&apos;s Talk <br/> About You"
+title: "Let’s, Talk </br> About You"
 description: "meta description"
-phone: "+15864190427"
-mail: "info@skratsch.com"
-location: "20088 Apache Dr, Clinton Township, MI USA 48038"
+phone: "+211234565523"
+mail: "info@email.com"
+location: "9567 Turner Trace Apt. BC C3G8A4"
 form_action: "#"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +15864190427
-    link: tel:+15864190427
+    content: +211234565523
+    link: tel:+211234565523
   - icon: FaMapMarkerAlt
-    content: info@skratsch.com
-    link: mailto:info@skratsch.com
+    content: info@email.com
+    link: mailto:info@email.com
   - icon: FaLocation
-    content: 20088 Apache Dr, Clinton Township, MI USA 48038
+    content: 9567 Turner Trace Apt. BC C3G8A4
 
 draft: false
 ---
