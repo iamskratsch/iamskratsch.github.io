@@ -1,13 +1,13 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to iamskratsch"
+  content: I am a developer in the Metro Detroit area making technology fun and attainable and changing the world one day at a time.
   image_enable: true
   image: /images/banner-author.png
   button:
     enable: true
-    label: Know About Me
+    label: More about me
     link: /about
     rel: ""
 
@@ -16,7 +16,7 @@ featured_posts:
   title: Featured Posts
 
 promotion:
-  enable: true
+  enable: false
   image: /images/promotion.png
   link: "#"
 

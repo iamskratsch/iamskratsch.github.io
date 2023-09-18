@@ -3,9 +3,9 @@ title: "Privacy Policy"
 layout: "Privacy"
 ---
 
-Skratsch Solutions, LLC (&quot;**Company**,&quot; &quot;**we**,&quot; or &quot;**us**&quot;) respects your privacy and is committed to protecting it through this Privacy Policy.
+Skratsch Solutions, LLC ("**Company**," "**we**," or "**us**") respects your privacy and is committed to protecting it through this Privacy Policy.
 
-This Privacy Policy governs your access to and use of iamskratsch.github.io, including any content, functionality and services offered on or through iamskratsch.github.io (the &quot;**Website**&quot;), whether as a guest or a registered user.
+This Privacy Policy governs your access to and use of iamskratsch.github.io, including any content, functionality and services offered on or through iamskratsch.github.io (the "**Website**"), whether as a guest or a registered user.
 
 When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
@@ -31,9 +31,9 @@ The information we collect automatically is used for statistical data and will n
 
 ### **Use of Cookies And Pixels**
 
-Similar to other commercial websites, our website utilizes a standard technology called &quot;cookies&quot; and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
+Similar to other commercial websites, our website utilizes a standard technology called "cookies" and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site&apos;s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser&apos;s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
 The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.​
 
@@ -41,7 +41,7 @@ The Company reserves the right to use technological equivalents of cookies, incl
 
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-We do not control these third parties&apos; tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
 ### **Email Information**
 
@@ -63,9 +63,9 @@ Users who no longer wish to receive our newsletter or promotional materials may 
 
 The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an &quot;unsubscribe&quot; link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](https://iamskratsch.github.io/contact) to unsubscribe from future emails.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an "unsubscribe" link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](https://iamskratsch.github.io/contact) to unsubscribe from future emails.
 
-If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll ​you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an &quot;unsubscribe&quot; link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](https://iamskratsch.github.io/contact) to unsubscribe from future emails.
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll ​you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an "unsubscribe" link at the bottom of every email we send. If you ever have trouble unsubscribing, you can [contact us](https://iamskratsch.github.io/contact) to unsubscribe from future emails.
 
 ### **How Do We Use the Information That You Provide to Us?**
 
@@ -83,7 +83,7 @@ We may disclose your personal information to our subsidiaries, affiliates, and s
 
 We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
 
-We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company&apos;s asserts and/or business.
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company's asserts and/or business.
 
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
 
@@ -99,9 +99,9 @@ For site security purposes and to ensure that this service remains available to 
 
 ### **Policy Changes**
 
-It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users&apos; personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-### **Visitors&apos; GDPR Rights**
+### **Visitors' GDPR Rights**
 
 If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
 
@@ -113,7 +113,7 @@ You have the right to seek restrictions on the processing of your data.
 
 You have the right to object to the processing of your data and the right to the portability of your data.
 
-To the extent that you provided consent to the Company&apos;s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+To the extent that you provided consent to the Company's processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
 
 You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
 
