@@ -1,8 +1,8 @@
 ---
-title: "GitHub 101: Unleashing Your Coding Potential"
+title: "GitHub 101 - Unleashing Your Coding Potential"
 date: 2023-09-17T15:00:00Z
 image: /images/post/github_101.png
-categories: ["git", "github","beginner"]
+categories: ["git", "github", "beginner"]
 featured: false
 draft: false
 ---
@@ -27,7 +27,7 @@ Understanding GitHub begins with a grasp of Git. Git is an open-source distribut
 
 ### Branches - Like a Tree
 
-Branches are an essential component of the GitHub workflow. They indicate distinct development paths within a repository. You can build a separate branch to work on updates or new features instead of committing your changes immediately to the main (master) branch. When your changes are complete, submit a pull request to merge your branch into the main branch.
+Branches are an essential component of the GitHub workflow. They indicate distinct development paths within a repository. You can build a separate branch to work on updates or new features instead of committing your changes immediately to the main branch. When your changes are complete, submit a pull request to merge your branch into the main branch.
 
 ![GitFlow Branching Image](/images/post/github_gitflow.png)
 

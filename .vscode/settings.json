@@ -1,65 +1,36 @@
 {
-    "frontMatter.taxonomy.contentTypes": [
-        {
-            "name": "default",
-            "pageBundle": false,
-            "fields": [
-                {
-                    "title": "Title",
-                    "name": "title",
-                    "type": "string"
-                },
-                {
-                    "title": "Description",
-                    "name": "description",
-                    "type": "string"
-                },
-                {
-                    "title": "Publishing date",
-                    "name": "date",
-                    "type": "datetime",
-                    "default": "{{now}}",
-                    "isPublishDate": true
-                },
-                {
-                    "title": "Content preview",
-                    "name": "preview",
-                    "type": "image"
-                },
-                {
-                    "title": "Is in draft",
-                    "name": "draft",
-                    "type": "boolean"
-                },
-                {
-                    "title": "Tags",
-                    "name": "tags",
-                    "type": "tags"
-                },
-                {
-                    "title": "Categories",
-                    "name": "categories",
-                    "type": "categories"
-                }
-            ]
-        }
-    ],
     "cSpell.words": [
-        "Baseof",
-        "bobthecow",
-        "darkmode",
-        "deepcode",
-        "disqus",
-        "Driessen",
-        "fontcss",
-        "gitflow",
-        "hotfixes",
-        "Kreeftmeijer's",
-        "Mailchimp",
-        "markdownify",
-        "nofollow",
-        "plainify",
-        "screencasts",
-        "shortcodes"
+      "Baseof",
+      "behance",
+      "bobthecow",
+      "codepen",
+      "darkmode",
+      "deepcode",
+      "disqus",
+      "dribbble",
+      "Driessen",
+      "fontcss",
+      "gitflow",
+      "hotfixes",
+      "iamskratsch",
+      "Kaschimer",
+      "Kreeftmeijer's",
+      "Liquibase",
+      "Mailchimp",
+      "markdownify",
+      "Merriweather",
+      "nofollow",
+      "pinterest",
+      "plainify",
+      "Raleway",
+      "screencasts",
+      "shortcodes",
+      "Skratsch",
+      "soundcloud",
+      "stackoverflow",
+      "themefisher",
+      "tiktok",
+      "treetrunk",
+      "wght"
     ]
 }

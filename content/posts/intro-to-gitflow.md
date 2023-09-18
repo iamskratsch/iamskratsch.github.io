@@ -1,13 +1,11 @@
 ---
-title: "GitFlow Branching Strategy"
+title: "GitFlow - Getting Started"
 date: 2023-09-18T09:00:00Z
 image: /images/post/github_gitflow.png
-categories: ["git", "github","branching"]
+categories: ["git", "github", "branching", "gitflow"]
 featured: false
 draft: false
 ---
-
-## Introduction
 
 GitFlow is a branching model for Git, created by Vincent Driessen. It's a consistent way to manage and track features, releases, and hotfixes in your projects. This model uses multiple branches to manage the development process efficiently and ensure that you can release your software at any point.
 
@@ -125,12 +123,12 @@ git flow feature finish feature_branch
 - The `git flow init` command is an actual command line tool that has an installation process. The installation process for git-flow is straightforward. Packages for git-flow are available on multiple operating systems.
 - For those who use the Bash or ZSH shell, please check out the excellent work on the git-flow-completion project by [bobthecow](https://github.com/bobthecow/git-flow-completion). It offers tab-completion for all git-flow subcommands and branch names.
 - If you're using Visual Studio Code, there's a Git Flow extension available in the [marketplace](https://marketplace.visualstudio.com/items?itemName=Serhioromano.vscode-gitflow) that integrates Git Flow directly into your editor.
-- You can find more detailed tutorials and screencasts on how to use a scalable Git branching model called git-flow on Jeff Kreeftmeijer's [blog post](jeffkreeftmeijer.com/git-flow/).
+- You can find more detailed tutorials and screencasts on how to use a scalable Git branching model called git-flow on Jeff Kreeftmeijer's [blog post](http://jeffkreeftmeijer.com/git-flow/).
 - Remember to export PATH=`pwd`:$PATH from within the gitflow directory to make sure you're using the version of gitflow you're currently developing.
 
 Remember, practice makes perfect. The more you use GitFlow and its extensions, the more comfortable and efficient you'll become with it.
 
-## Conclusion
+## Final Thoughts
 
 The GitFlow branching strategy is an efficient way to manage and track changes in your projects. It allows you to isolate new features, prepare for releases, and fix bugs in your live application without disrupting the main development flow. By using this model, you can ensure that you're always ready to release your software at any time.
 
