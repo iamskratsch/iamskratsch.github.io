@@ -28,7 +28,6 @@ const Post = ({ post }) => {
             >
               <Link
                 className="capitalize"
-                // deepcode ignore GlobalReplacementRegex: No need to worry about this here
                 href={`/categories/${tag.replace(" ", "-")}`}
               >
                 {tag}

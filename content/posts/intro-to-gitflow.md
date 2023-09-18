@@ -1,10 +1,11 @@
 ---
 title: "GitFlow - Getting Started"
-date: 2023-09-18T09:00:00Z
+date: 2023-09-19T10:50:00Z
 image: /images/post/github_gitflow.png
 categories: ["git", "github", "branching", "gitflow"]
 featured: false
 draft: false
+author: Steve Kaschimer
 ---
 
 GitFlow is a branching model for Git, created by Vincent Driessen. It's a consistent way to manage and track features, releases, and hotfixes in your projects. This model uses multiple branches to manage the development process efficiently and ensure that you can release your software at any point.

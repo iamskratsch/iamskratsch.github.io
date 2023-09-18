@@ -46,7 +46,6 @@ const App = ({ Component, pageProps }) => {
           crossOrigin="true"
         />
         <style
-          // deepcode ignore DOMXSS: we're ok at this point
           dangerouslySetInnerHTML={{
             __html: `${fontcss}`,
           }}

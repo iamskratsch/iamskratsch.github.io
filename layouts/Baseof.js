@@ -59,7 +59,6 @@ const Base = ({
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
-          // deepcode ignore GlobalReplacementRegex: don't need to worry about this issue here
           content={`${base_url}/${router.asPath.replace("/", "")}`}
         />
 

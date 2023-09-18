@@ -41,6 +41,7 @@ export const getSinglePage = (folder) => {
     const frontmatterString = JSON.stringify(pageDataParsed.data);
     const frontmatter = JSON.parse(frontmatterString);
     const content = pageDataParsed.content;
+    // deepcode ignore GlobalReplacementRegex: we're ok at this point
     const url = frontmatter.url ? frontmatter.url.replace("/", "") : slug;
     return { frontmatter: frontmatter, slug: url, content: content };
   });

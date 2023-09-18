@@ -16,7 +16,6 @@ const Category = ({ postsByCategories, category, posts, categories }) => {
           <h1 className="h2 mb-12">
             Showing posts from
             <span className="section-title ml-1 inline-block capitalize">
-              {/* deepcode ignore GlobalReplacementRegex: We're ok here */}
               {category.replace("-", " ")}
             </span>
           </h1>

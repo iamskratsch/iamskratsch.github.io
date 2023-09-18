@@ -1,10 +1,11 @@
 ---
 title: "Trunk-Based Development - Getting Started"
-date: 2023-09-17T010:00:00Z
+date: 2023-09-18T15:50:00Z
 image: /images/post/trunkbased_treetrunk.png
 categories: ["branching", "merging", "git", "trunk", "tbd"]
 featured: false
 draft: false
+author: Steve Kaschimer
 ---
 
 Trunk-Based Development (TBD) is a source-control branching model where developers work on a *single branch* called 'trunk', or 'main'. They integrate their changes as often as possible, **at least once a day** (committing changes *every few hours* is common practice).

@@ -1,10 +1,11 @@
 ---
 title: "GitHub Flow - A Streamlined Approach to Version Control"
-date: 2023-09-17T010:03:00Z
+date: 2023-09-18T09:02:00Z
 image: /images/post/github_flow_diagram.png
 categories: ["branching", "merging", "git", "githubflow"]
 featured: false
 draft: false
+author: Steve Kaschimer
 ---
 
 GitHub Flow is a simple, branch-based workflow that supports teams and projects where deployments are made regularly. This workflow was introduced by GitHub to accommodate the unique needs of its platform and users, emphasizing the importance of conversation and collaboration in software development.

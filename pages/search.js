@@ -20,10 +20,8 @@ const SearchPage = () => {
       product.frontmatter.categories.find((category) =>
         slugify(category).includes(keyword)
       )
-    // deepcode ignore DuplicateIfBody: We're ok at this point
     ) {
       return product;
-    // deepcode ignore DuplicateIfBody: We're ok here as well
     } else if (slugify(product.content).includes(keyword)) {
       return product;
     }

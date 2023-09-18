@@ -1,10 +1,11 @@
 ---
 title: "GitHub 101 - Unleashing Your Coding Potential"
-date: 2023-09-17T15:00:00Z
+date: 2023-09-16T15:50:00Z
 image: /images/post/github_101.png
 categories: ["git", "github", "beginner"]
 featured: false
 draft: false
+author: Steve Kaschimer
 ---
 
 You've probably heard of [GitHub](https://www.github.com), the world's largest platform for hosting and working on code. Millions of developers, from hobbyists to experts, utilize GitHub to share projects, learn from others, and contribute to open-source software. But what is GitHub, and how can it help you enhance your coding skills?
