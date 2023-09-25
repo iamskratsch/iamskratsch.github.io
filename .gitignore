@@ -38,4 +38,4 @@ yarn-error.log*
 # Local Netlify folder
 .netlify
 
-rss.xml
+/public/rss.xml
