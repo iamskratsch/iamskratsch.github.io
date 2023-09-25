@@ -1,6 +1,6 @@
 ---
 title: "Trunk-Based Development - Getting Started"
-date: 2023-09-17T10:00:00Z
+date: 2023-09-03T10:00:00Z
 image: /images/post/trunkbased_treetrunk.png
 categories: 
     - branching

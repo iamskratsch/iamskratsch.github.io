@@ -1,6 +1,6 @@
 ---
 title: "GitFlow - Getting Started"
-date: 2023-09-18T09:00:00Z
+date: 2023-09-02T09:00:00Z
 image: /images/post/github_gitflow.png
 categories:
     - git

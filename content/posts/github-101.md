@@ -1,6 +1,6 @@
 ---
 title: "GitHub 101 - Unleashing Your Coding Potential"
-date: 2023-09-17T15:00:00Z
+date: 2023-09-01T15:00:00Z
 image: /images/post/github_101.png
 categories: 
     - github

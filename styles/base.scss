@@ -44,3 +44,15 @@ h6,
 .h6 {
   @apply text-h6;
 }
+
+dl {
+  @apply flex flex-wrap break-words bg-slate-200 pb-4 border-4 border-slate-300 rounded-2xl;
+}
+
+dt {
+  @apply text-justify w-[99%] font-bold ml-4;
+}
+
+dd {
+  @apply box-border w-[99%] pl-4;
+}

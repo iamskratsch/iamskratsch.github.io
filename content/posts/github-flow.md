@@ -1,6 +1,6 @@
 ---
 title: "GitHub Flow - A Streamlined Approach to Version Control"
-date: 2023-09-17T10:03:00Z
+date: 2023-09-04T10:03:00Z
 image: /images/post/github_flow_diagram.png
 categories: 
     - branching
