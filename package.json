@@ -5,14 +5,16 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "dev": "node lib/jsonGenerator.js && next dev",
-    "build": "node lib/jsonGenerator.js && next build",
+    "dev": "node lib/jsonGenerator.js && node lib/rssGenerator.js && next dev",
+    "build": "node lib/jsonGenerator.js && node lib/rssGenerator.js && next build",
     "export": "npm run build && next export",
     "lint": "next lint",
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^2.29.2",
     "disqus-react": "^1.1.5",
+    "fs": "^0.0.1-security",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
     "marked": "^4.2.12",
@@ -26,8 +28,12 @@
     "react-lite-youtube-embed": "^2.3.52",
     "react-mailchimp-subscribe": "^2.1.3",
     "react-syntax-highlighter": "^15.5.0",
-    "rehype-slug": "^5.1.0",
-    "remark-gfm": "^3.0.1"
+    "reading-time": "^1.5.0",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-img-size": "^1.0.1",
+    "rehype-slug": "^5.0.1",
+    "remark-gfm": "^3.0.1",
+    "rss": "^1.2.2"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.3",
