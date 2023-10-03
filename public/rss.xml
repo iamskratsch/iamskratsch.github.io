@@ -9,50 +9,50 @@
             <link>https://iamskratsch.github.io</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Sep 2023 21:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 18:10:52 GMT</lastBuildDate>
         <atom:link href="https://iamskratsch.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 Sep 2023 21:18:38 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2023 18:10:52 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Skratsch Solutions LLC]]></copyright>
         <item>
             <title><![CDATA[GitFlow - Getting Started]]></title>
             <description><![CDATA[In this article, we will walk you through the basisc of Git Flow, it's history, its pros and cons, and the basics of how to work with it in your development workflow.]]></description>
-            <link>https://iamskratsch.github.io/blog/gitflow-getting-started</link>
-            <guid isPermaLink="true">https://iamskratsch.github.io/blog/gitflow-getting-started</guid>
+            <link>https://iamskratsch.github.io/posts/gitflow-getting-started</link>
+            <guid isPermaLink="true">https://iamskratsch.github.io/posts/gitflow-getting-started</guid>
             <pubDate>Sat, 02 Sep 2023 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GitHub 101 - Unleashing Your Coding Potential]]></title>
             <description><![CDATA[In this post, we'll walk you through the fundamentals of GitHub, including how to register an account, build your first repository, make changes to your code, collaborate on projects, and more.]]></description>
-            <link>https://iamskratsch.github.io/blog/github-101</link>
-            <guid isPermaLink="true">https://iamskratsch.github.io/blog/github-101</guid>
+            <link>https://iamskratsch.github.io/posts/github-101</link>
+            <guid isPermaLink="true">https://iamskratsch.github.io/posts/github-101</guid>
             <pubDate>Fri, 01 Sep 2023 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GitHub Flow - A Streamlined Approach to Version Control]]></title>
             <description><![CDATA[In this article, we will walk you through the basisc of GitHub Flow, it's history, its pros and cons, and the basics of how to work with it in your development workflow.]]></description>
-            <link>https://iamskratsch.github.io/blog/github-flow</link>
-            <guid isPermaLink="true">https://iamskratsch.github.io/blog/github-flow</guid>
+            <link>https://iamskratsch.github.io/posts/github-flow</link>
+            <guid isPermaLink="true">https://iamskratsch.github.io/posts/github-flow</guid>
             <pubDate>Mon, 04 Sep 2023 10:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to Azure DevOps]]></title>
             <description><![CDATA[In this article, we'll familiarize you with Azure DevOps, delve into its advantages, and guide you through the process of creating your inaugural Azure DevOps account.]]></description>
-            <link>https://iamskratsch.github.io/blog/intro-to-azure-devops</link>
-            <guid isPermaLink="true">https://iamskratsch.github.io/blog/intro-to-azure-devops</guid>
+            <link>https://iamskratsch.github.io/posts/intro-to-azure-devops</link>
+            <guid isPermaLink="true">https://iamskratsch.github.io/posts/intro-to-azure-devops</guid>
             <pubDate>Tue, 05 Sep 2023 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liquibase - A Beginner's Guide]]></title>
             <description><![CDATA[Liquibase is a robust open-source solution designed to facilitate the management of database schema modifications. It empowers developers to oversee the revisions of their database schema scripts, which can be systematically applied to a database. This comprehensive guide aims to provide step-by-step instructions on how to set up Liquibase, optimize its usage, and leverage some useful tips and tricks to maximize its potential.]]></description>
-            <link>https://iamskratsch.github.io/blog/liquibase-a-beginners-guide</link>
-            <guid isPermaLink="true">https://iamskratsch.github.io/blog/liquibase-a-beginners-guide</guid>
+            <link>https://iamskratsch.github.io/posts/liquibase-a-beginners-guide</link>
+            <guid isPermaLink="true">https://iamskratsch.github.io/posts/liquibase-a-beginners-guide</guid>
             <pubDate>Tue, 19 Sep 2023 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trunk-Based Development - Getting Started]]></title>
             <description><![CDATA[This article will walk you through Trunk-Based Development, it's history, it's pros and cons, and the basics of how to work with it in your development workflow.]]></description>
-            <link>https://iamskratsch.github.io/blog/trunk-based-development</link>
-            <guid isPermaLink="true">https://iamskratsch.github.io/blog/trunk-based-development</guid>
+            <link>https://iamskratsch.github.io/posts/trunk-based-development</link>
+            <guid isPermaLink="true">https://iamskratsch.github.io/posts/trunk-based-development</guid>
             <pubDate>Sun, 03 Sep 2023 10:00:00 GMT</pubDate>
         </item>
     </channel>
